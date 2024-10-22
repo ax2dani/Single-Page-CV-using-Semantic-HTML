@@ -2,8 +2,7 @@
  This project demonstrates how to create a structured, single-page CV using only HTML. The focus is on laying out your education, skills, and career history in a 
  clean, semantic manner. Styling will be addressed in a later project.
 
-### [Project URL](https://github.com/ax2dani/Single-Page-CV-using-Semantic-HTML)
-https://github.com/ax2dani/Single-Page-CV-using-Semantic-HTML/blob/main/index.html
+### [Project Question URL]([https://github.com/ax2dani/Single-Page-CV-using-Semantic-HTML](https://roadmap.sh/projects/single-page-cv))
 
 ### Project Goals
 - Semantic HTML
