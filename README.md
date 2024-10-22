@@ -3,6 +3,7 @@
  clean, semantic manner. Styling will be addressed in a later project.
 
 ### [Project URL](https://github.com/ax2dani/Single-Page-CV-using-Semantic-HTML)
+https://github.com/ax2dani/Single-Page-CV-using-Semantic-HTML/blob/main/index.html
 
 ### Project Goals
 - Semantic HTML
