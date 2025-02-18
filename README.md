@@ -15,7 +15,6 @@
 - Social Media Optimized
 - Contact Information
 - Responsive Design
-👋 Hello, I'm Dave Gray.
 
 ### How to Use
 1. Clone the repository.
